@@ -69,5 +69,4 @@ I used Google Gemini/AI as a learning tool while completing this assignment. I u
 ## OnlineGDB Link
 https://www.onlinegdb.com/s/as/390020
 ## GitHub Repository Link
-https://github.com/asanchez173850/Lab-Assignment-6-Recursive-Word-Ladder/tree/main
-
+https://github.com/asanchez173850/Lab-Assignment-6-Recursive-Word-Ladder
